@@ -9,3 +9,5 @@ Extremely basic Discord NSFW bot built with discord.js
 - Go back to the bot folder
 - Add your token in config.json
 - Go back to cmd and type node index.js
+
+[![Run on Repl.it](https://repl.it/badge/github/RoeeLupo/SheldoNSFW)](https://repl.it/github/RoeeLupo/SheldoNSFW)
